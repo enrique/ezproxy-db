@@ -4186,7 +4186,7 @@
   },
   {
     "name": "Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)",
-    "url": "http://ezproxy.iteso.mx/login?url=$@",
+    "url": "https://ezproxy.iteso.mx/login?url=$@",
     "location": {
       "lng": -103.4146601,
       "lat": 20.6083796
